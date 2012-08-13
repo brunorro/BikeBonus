@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BikeBonusActivity!</string>
+    <string name="app_name">BikeBonus</string>
+    <string name="about_message">BikeBonus 0.000000\nJust for testing, just for fun.</string>
+    <string name="gps_init_exception">Exception initializing GPS</string>
+    <string name="network_init_exception">Exception initializing Network Location</string>
+    <string name="initializing_message">Initializing</string>
+    
+    <string name="city_service_address_JSON">http://api.citybik.es/networks.json</string>
+    
+	<string name="city_id_field_JSON">id</string>
+	<string name="city_name_field_JSON">name</string>
+	<string name="city_lat_field_JSON">lat</string>
+	<string name="city_long_field_JSON">lng</string>
+    
+    <string name="bikestation_service_address_JSON">http://api.citybik.es/bicing.json</string>
+    
+    <string name="bikestation_id_field_JSON">id</string>
+    <string name="bikestation_name_field_JSON">name</string>
+    <string name="bikestation_lat_field_JSON">lat</string>
+    <string name="bikestation_long_field_JSON">lng</string>
+    <string name="bikestation_numbikes_field_JSON">bikes</string>
+    <string name="bikestation_freeslots_field_JSON">free</string>
+    <string name="bikestation_timestamp_field_JSON">timestamp</string>
+	
+
+</resources>
